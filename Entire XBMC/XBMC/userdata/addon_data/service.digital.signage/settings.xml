@@ -1,0 +1,6 @@
+<settings>
+    <setting id="Location" value="45" />
+    <setting id="Org" value="DD2" />
+    <setting id="PiDee" value="-1" />
+    <setting id="ServerIP" value="0.0.0.0" />
+</settings>
